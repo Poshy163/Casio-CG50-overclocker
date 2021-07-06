@@ -1,0 +1,3 @@
+C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug/CMakeFiles/Casio_CG50_overclocker.dir
+C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug/CMakeFiles/rebuild_cache.dir

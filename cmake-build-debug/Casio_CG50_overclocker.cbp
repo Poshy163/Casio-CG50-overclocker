@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Casio_CG50_overclocker"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Casio_CG50_overclocker">
+				<Option output="C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug/Casio_CG50_overclocker.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/include"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/include/sys"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include-fixed"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/install-tools"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/install-tools/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 Casio_CG50_overclocker"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Casio_CG50_overclocker/fast">
+				<Option output="C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug/Casio_CG50_overclocker.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/include"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/include/sys"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include-fixed"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/install-tools"/>
+					<Add directory="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/install-tools/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 Casio_CG50_overclocker/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\GitHub\Repos\Casio-CG50-overclocker\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/APP_syscalls.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/CONVERT_syscalls.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/LineEditors.hpp">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/ListView.hpp">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/MCS_syscalls.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/RTC_syscalls.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/STATUS_ICONS.hpp">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/SYSTEM_syscalls.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/StrList.hpp">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/UI.hpp">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/alloca.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/app.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/asm.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/assert.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/color.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/ctype.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/disp_tools.hpp">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/display.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/display_syscalls.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/errno.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/app.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/display.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/file.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/heap.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/keyboard.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/misc.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/registers.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/rtc.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/serial.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg/system.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg_display.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg_keyboard.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg_registers.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/fxcg_stdlib_syscalls.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/keyboard.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/keyboard.hpp">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/keyboard_syscalls.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/locale.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/math.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/mcs.hpp">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/rtc.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/setjmp.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/sprite.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/stddef.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/stdio.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/stdlib.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/string.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/sys/types.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/system.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/time.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/include/unistd.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include-fixed/limits.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include-fixed/syslimits.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/float.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/gcov.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/iso646.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/stdalign.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/stdarg.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/stdatomic.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/stdbool.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/stddef.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/stdfix.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/stdint-gcc.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/stdint.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/stdnoreturn.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/tgmath.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/unwind.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/include/varargs.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/install-tools/gsyslimits.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/gcc/sh3eb-elf/10.1.0/install-tools/include/limits.h">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/libc.a">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/lib/libfxcg.a">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/cc1.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/cc1plus.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/collect2.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/install-tools/fixinc.sh">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/install-tools/fixincl.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/install-tools/mkheaders">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/install-tools/mkinstalldirs">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/liblto_plugin-0.dll">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/liblto_plugin.dll.a">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/liblto_plugin.la">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/lto-wrapper.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/libexec/gcc/sh3eb-elf/10.1.0/lto1.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/projects/example/src/example.c">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/ar.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/as.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/ld.bfd.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/ld.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/nm.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/objcopy.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/objdump.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/ranlib.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/readelf.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/bin/strip.exe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/sh.x">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/sh.xbn">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/sh.xe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/sh.xn">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/sh.xr">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/sh.xu">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.x">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xbn">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xc">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xce">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xn">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xr">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xs">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xsc">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xsce">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xse">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xsw">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xswe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xu">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xw">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shelf.xwe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shl.x">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shl.xbn">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shl.xe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shl.xn">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shl.xr">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shl.xu">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.x">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xbn">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xc">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xce">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xn">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xr">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xs">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xsc">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xsce">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xse">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xsw">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xswe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xu">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xw">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/sh3eb-elf/lib/ldscripts/shlelf.xwe">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/as.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/bfd.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/binutils.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/cpp.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/cppinternals.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/gcc.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/gccinstall.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/gccint.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/gprof.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/info/ld.info">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/mkg3a.1.gz">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-addr2line.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-ar.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-as.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-c++filt.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-cpp.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-dlltool.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-elfedit.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-g++.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-gcc.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-gcov-dump.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-gcov-tool.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-gcov.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-gprof.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-ld.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-lto-dump.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-nm.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-objcopy.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-objdump.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-ranlib.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-readelf.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-size.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-strings.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-strip.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-windmc.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man1/sh3eb-elf-windres.1">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man7/fsf-funding.7">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man7/gfdl.7">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/share/man/man7/gpl.7">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/toolchain/prizm.x">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/toolchain/prizm_rules">
+			<Option target="Casio_CG50_overclocker"/>
+		</Unit>
+		<Unit filename="C:/GitHub/Repos/Casio-CG50-overclocker/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
