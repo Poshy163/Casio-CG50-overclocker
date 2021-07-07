@@ -50,24 +50,24 @@ The CXX compiler identification is MSVC, found in "C:/GitHub/Repos/Casio-CG50-ov
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_12b76\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_12b76.dir\build.make /nologo -L                  CMakeFiles\cmTC_12b76.dir\build
-Building C object CMakeFiles/cmTC_12b76.dir/CMakeCCompilerABI.c.obj
-	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\LeaperJ\AppData\Local\Temp\nm8EA2.tmp
+Run Build Command(s):nmake /nologo cmTC_fa14c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_fa14c.dir\build.make /nologo -L                  CMakeFiles\cmTC_fa14c.dir\build
+Building C object CMakeFiles/cmTC_fa14c.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\LeaperJ\AppData\Local\Temp\nm1727.tmp
 CMakeCCompilerABI.c
-Linking C executable cmTC_12b76.exe
-	"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_12b76.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_12b76.dir\objects1.rsp @C:\Users\LeaperJ\AppData\Local\Temp\nm902A.tmp
+Linking C executable cmTC_fa14c.exe
+	"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fa14c.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_fa14c.dir\objects1.rsp @C:\Users\LeaperJ\AppData\Local\Temp\nm197A.tmp
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_e3d5d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_e3d5d.dir\build.make /nologo -L                  CMakeFiles\cmTC_e3d5d.dir\build
-Building CXX object CMakeFiles/cmTC_e3d5d.dir/CMakeCXXCompilerABI.cpp.obj
-	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\LeaperJ\AppData\Local\Temp\nm9394.tmp
+Run Build Command(s):nmake /nologo cmTC_09156\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_09156.dir\build.make /nologo -L                  CMakeFiles\cmTC_09156.dir\build
+Building CXX object CMakeFiles/cmTC_09156.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @C:\Users\LeaperJ\AppData\Local\Temp\nm2541.tmp
 CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_e3d5d.exe
-	"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_e3d5d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_e3d5d.dir\objects1.rsp @C:\Users\LeaperJ\AppData\Local\Temp\nm93F3.tmp
+Linking CXX executable cmTC_09156.exe
+	"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_09156.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_09156.dir\objects1.rsp @C:\Users\LeaperJ\AppData\Local\Temp\nm2755.tmp
 
 
 

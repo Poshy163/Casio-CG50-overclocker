@@ -101,7 +101,7 @@ add_executable(Casio_CG50_overclocker
         libexec/gcc/sh3eb-elf/10.1.0/liblto_plugin.la
         libexec/gcc/sh3eb-elf/10.1.0/lto-wrapper.exe
         libexec/gcc/sh3eb-elf/10.1.0/lto1.exe
-        projects/example/src/example.c
+        projects/example/src/OverClocker.c
         sh3eb-elf/bin/ar.exe
         sh3eb-elf/bin/as.exe
         sh3eb-elf/bin/ld.bfd.exe
@@ -196,4 +196,4 @@ add_executable(Casio_CG50_overclocker
         share/man/man7/gfdl.7
         share/man/man7/gpl.7
         toolchain/prizm.x
-        toolchain/prizm_rules)
+        toolchain/prizm_rules projects/OverClocker/src/Menu.cpp)

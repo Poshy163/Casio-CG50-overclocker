@@ -12,5 +12,17 @@
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Configuring done
--- Generating done
--- Build files have been written to: C:/GitHub/Repos/Casio-CG50-overclocker/cmake-build-debug
+CMake Error at CMakeLists.txt:18 (add_executable):
+  Cannot find source file:
+
+    projects/OverClocker/src/Menu.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .ispc
+
+
+CMake Error at CMakeLists.txt:18 (add_executable):
+  No SOURCES given to target: Casio_CG50_overclocker
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
